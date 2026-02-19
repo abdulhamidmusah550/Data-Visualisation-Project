@@ -1,8 +1,3 @@
-"""
-DataViz Dashboard - 5 Chart Types Demo
-Run with: streamlit run dataviz_dashboard.py
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np
